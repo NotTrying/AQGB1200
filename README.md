@@ -25,7 +25,7 @@ Height / Depth | 84cm | 24cm
 
 Each grow bed has a bell siphon with the following parts:
 
-![Image of Bell Siphon](/Photos/20200908_103848.jpg)
+<img src="/Photos/20200908_103848.jpg" width="250">
 
 - Stand Pipe:
   - 1x 25mm to 20mm reducer (A)
